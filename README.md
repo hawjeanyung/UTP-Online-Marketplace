@@ -71,7 +71,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Developed by a **Computer Science student** as part of an academic project for **Universiti Teknologi PETRONAS (UTP)**.
+Developed by Haw Jean Yung, Bachelors of Computer Science from University Teknologi Petronas as part my Visual Programming course assignment during Foundation.
 
 ## 📄 License
 
