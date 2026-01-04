@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BecomeSeller1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BecomeSeller2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Category.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Challenges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Create.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PurchaseHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Step1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Step2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UploadProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

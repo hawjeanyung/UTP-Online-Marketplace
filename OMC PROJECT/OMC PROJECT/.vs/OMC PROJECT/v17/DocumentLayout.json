@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OMC PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\signin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:signin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\signin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:signin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\cart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:cart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\loading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:loading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\create.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:create.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\create.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:create.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\cart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:cart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\step2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:step2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\uploadproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:uploadproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\step1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:step1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\purchasehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:purchasehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\becomeseller2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:becomeseller2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\shop.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:shop.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\step1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:step1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\becomeseller1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:becomeseller1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\challenges.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:challenges.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\becomeseller2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:becomeseller2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\step2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:step2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\purchasehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:purchasehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\notification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:notification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\notification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:notification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\shop.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:shop.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\uploadproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:uploadproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\category.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:category.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\loading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:loading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\category.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:category.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\becomeseller1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:becomeseller1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\omc project.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:omc project.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|e:\\omc project\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B40B3647-8899-46A3-874F-1C66CEC095AD}|OMC PROJECT.vbproj|solutionrelative:aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OMC PROJECT",
+              "DocumentMoniker": "E:\\OMC PROJECT\\OMC PROJECT.vbproj",
+              "RelativeDocumentMoniker": "OMC PROJECT.vbproj",
+              "ToolTip": "E:\\OMC PROJECT\\OMC PROJECT.vbproj",
+              "RelativeToolTip": "OMC PROJECT.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-18T02:46:33.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutUs.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\AboutUs.vb",
+              "RelativeDocumentMoniker": "AboutUs.vb",
+              "ToolTip": "E:\\OMC PROJECT\\AboutUs.vb [Design]",
+              "RelativeToolTip": "AboutUs.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-24T05:22:33.954Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loading.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Loading.vb",
+              "RelativeDocumentMoniker": "Loading.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Loading.vb [Design]",
+              "RelativeToolTip": "Loading.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T05:11:20.455Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\SignIn.vb",
+              "RelativeDocumentMoniker": "SignIn.vb",
+              "ToolTip": "E:\\OMC PROJECT\\SignIn.vb [Design]",
+              "RelativeToolTip": "SignIn.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T05:24:44.966Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Create.vb",
+              "RelativeDocumentMoniker": "Create.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Create.vb [Design]",
+              "RelativeToolTip": "Create.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T05:36:44.043Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Home.vb",
+              "RelativeDocumentMoniker": "Home.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Home.vb [Design]",
+              "RelativeToolTip": "Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T14:38:31.278Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Category.vb",
+              "RelativeDocumentMoniker": "Category.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Category.vb [Design]",
+              "RelativeToolTip": "Category.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T13:06:56.96Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Notification.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Notification.vb",
+              "RelativeDocumentMoniker": "Notification.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Notification.vb [Design]",
+              "RelativeToolTip": "Notification.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T06:28:32.619Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PurchaseHistory.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\PurchaseHistory.vb",
+              "RelativeDocumentMoniker": "PurchaseHistory.vb",
+              "ToolTip": "E:\\OMC PROJECT\\PurchaseHistory.vb [Design]",
+              "RelativeToolTip": "PurchaseHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T14:42:48.941Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Search.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Search.vb",
+              "RelativeDocumentMoniker": "Search.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Search.vb [Design]",
+              "RelativeToolTip": "Search.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T06:28:12.299Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Cart.vb",
+              "RelativeDocumentMoniker": "Cart.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Cart.vb [Design]",
+              "RelativeToolTip": "Cart.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T07:43:32.267Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Step1.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Step1.vb",
+              "RelativeDocumentMoniker": "Step1.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Step1.vb [Design]",
+              "RelativeToolTip": "Step1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:58:50.321Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Step2.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Step2.vb",
+              "RelativeDocumentMoniker": "Step2.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Step2.vb [Design]",
+              "RelativeToolTip": "Step2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T05:14:38.581Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Settings.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Settings.vb",
+              "RelativeDocumentMoniker": "Settings.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Settings.vb [Design]",
+              "RelativeToolTip": "Settings.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T08:26:48.96Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BecomeSeller1.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\BecomeSeller1.vb",
+              "RelativeDocumentMoniker": "BecomeSeller1.vb",
+              "ToolTip": "E:\\OMC PROJECT\\BecomeSeller1.vb [Design]",
+              "RelativeToolTip": "BecomeSeller1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T06:35:06.125Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BecomeSeller2.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\BecomeSeller2.vb",
+              "RelativeDocumentMoniker": "BecomeSeller2.vb",
+              "ToolTip": "E:\\OMC PROJECT\\BecomeSeller2.vb [Design]",
+              "RelativeToolTip": "BecomeSeller2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T10:53:43.962Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Shop.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Shop.vb",
+              "RelativeDocumentMoniker": "Shop.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Shop.vb [Design]",
+              "RelativeToolTip": "Shop.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T02:58:17.561Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Home.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Home.vb",
+              "RelativeDocumentMoniker": "Home.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Home.vb",
+              "RelativeToolTip": "Home.vb",
+              "ViewState": "AQIAADUAAAAAAAAAAAAvwEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T04:18:49.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Category.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Category.vb",
+              "RelativeDocumentMoniker": "Category.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Category.vb",
+              "RelativeToolTip": "Category.vb",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T13:07:14.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Search.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Search.vb",
+              "RelativeDocumentMoniker": "Search.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Search.vb",
+              "RelativeToolTip": "Search.vb",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAgwKQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T07:26:08.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Notification.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Notification.vb",
+              "RelativeDocumentMoniker": "Notification.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Notification.vb",
+              "RelativeToolTip": "Notification.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T06:29:53.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PurchaseHistory.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\PurchaseHistory.vb",
+              "RelativeDocumentMoniker": "PurchaseHistory.vb",
+              "ToolTip": "E:\\OMC PROJECT\\PurchaseHistory.vb",
+              "RelativeToolTip": "PurchaseHistory.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T14:44:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Profile.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Profile.vb",
+              "RelativeDocumentMoniker": "Profile.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Profile.vb",
+              "RelativeToolTip": "Profile.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-22T11:43:04.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Cart.vb",
+              "RelativeDocumentMoniker": "Cart.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Cart.vb",
+              "RelativeToolTip": "Cart.vb",
+              "ViewState": "AQIAABsAAAAAAAAAAAA4wCoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T07:44:07.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Step1.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Step1.vb",
+              "RelativeDocumentMoniker": "Step1.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Step1.vb",
+              "RelativeToolTip": "Step1.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:59:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Step2.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Step2.vb",
+              "RelativeDocumentMoniker": "Step2.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Step2.vb",
+              "RelativeToolTip": "Step2.vb",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAYwG8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T05:15:10.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UploadProduct.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\UploadProduct.vb",
+              "RelativeDocumentMoniker": "UploadProduct.vb",
+              "ToolTip": "E:\\OMC PROJECT\\UploadProduct.vb",
+              "RelativeToolTip": "UploadProduct.vb",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-28T06:31:23.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Create.vb",
+              "RelativeDocumentMoniker": "Create.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Create.vb",
+              "RelativeToolTip": "Create.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T06:02:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignIn.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\SignIn.vb",
+              "RelativeDocumentMoniker": "SignIn.vb",
+              "ToolTip": "E:\\OMC PROJECT\\SignIn.vb",
+              "RelativeToolTip": "SignIn.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T05:54:58.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Loading.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Loading.vb",
+              "RelativeDocumentMoniker": "Loading.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Loading.vb",
+              "RelativeToolTip": "Loading.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T02:42:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AboutUs.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\AboutUs.vb",
+              "RelativeDocumentMoniker": "AboutUs.vb",
+              "ToolTip": "E:\\OMC PROJECT\\AboutUs.vb",
+              "RelativeToolTip": "AboutUs.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-24T05:24:04.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UploadProduct.vb [Design]",
+              "DocumentMoniker": "E:\\OMC PROJECT\\UploadProduct.vb",
+              "RelativeDocumentMoniker": "UploadProduct.vb",
+              "ToolTip": "E:\\OMC PROJECT\\UploadProduct.vb [Design]",
+              "RelativeToolTip": "UploadProduct.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-28T06:30:45.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Challenges.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Challenges.vb",
+              "RelativeDocumentMoniker": "Challenges.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Challenges.vb",
+              "RelativeToolTip": "Challenges.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-24T08:47:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Settings.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Settings.vb",
+              "RelativeDocumentMoniker": "Settings.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Settings.vb",
+              "RelativeToolTip": "Settings.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-24T09:19:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BecomeSeller1.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\BecomeSeller1.vb",
+              "RelativeDocumentMoniker": "BecomeSeller1.vb",
+              "ToolTip": "E:\\OMC PROJECT\\BecomeSeller1.vb",
+              "RelativeToolTip": "BecomeSeller1.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T06:35:10.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BecomeSeller2.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\BecomeSeller2.vb",
+              "RelativeDocumentMoniker": "BecomeSeller2.vb",
+              "ToolTip": "E:\\OMC PROJECT\\BecomeSeller2.vb",
+              "RelativeToolTip": "BecomeSeller2.vb",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-26T10:54:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Shop.vb",
+              "DocumentMoniker": "E:\\OMC PROJECT\\Shop.vb",
+              "RelativeDocumentMoniker": "Shop.vb",
+              "ToolTip": "E:\\OMC PROJECT\\Shop.vb",
+              "RelativeToolTip": "Shop.vb",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-27T02:58:48.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

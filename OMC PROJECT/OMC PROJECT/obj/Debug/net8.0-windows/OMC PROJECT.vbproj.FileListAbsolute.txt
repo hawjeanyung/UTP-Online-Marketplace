@@ -1,0 +1,166 @@
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Loading.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Resources.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.SignIn.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.vbproj.GenerateResource.cache
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.AssemblyInfoInputs.cache
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.AssemblyInfo.vb
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.exe
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.deps.json
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.runtimeconfig.json
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.pdb
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.CreateAccount.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\refint\OMC PROJECT.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.pdb
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.genruntimeconfig.cache
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\ref\OMC PROJECT.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Home.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Search.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Category.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Cart.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Step1.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Step2.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.vbproj.AssemblyReference.cache
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJ.D41E7DEB.Up2Date
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Profile.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.AboutUs.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Challenges.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Settings.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Notification.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.BecomeSeller1.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.BecomeSeller2.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Shop.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.UploadProduct.resources
+C:\Users\FelixFish\source\repos\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.PurchaseHistory.resources
+E:\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.exe
+E:\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.deps.json
+E:\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.runtimeconfig.json
+E:\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\OMC PROJECT.pdb
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\OMC PROJECT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.vbproj.AssemblyReference.cache
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.AboutUs.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.BecomeSeller1.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.BecomeSeller2.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Cart.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Category.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Challenges.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.CreateAccount.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Home.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Loading.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Resources.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Notification.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Profile.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.PurchaseHistory.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Search.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Settings.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Shop.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.SignIn.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Step1.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.Step2.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC_PROJECT.UploadProduct.resources
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.vbproj.GenerateResource.cache
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.AssemblyInfoInputs.cache
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.AssemblyInfo.vb
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.vbproj.CoreCompileInputs.cache
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJ.D41E7DEB.Up2Date
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.dll
+E:\OMC PROJECT\obj\Debug\net8.0-windows\refint\OMC PROJECT.dll
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.pdb
+E:\OMC PROJECT\obj\Debug\net8.0-windows\OMC PROJECT.genruntimeconfig.cache
+E:\OMC PROJECT\obj\Debug\net8.0-windows\ref\OMC PROJECT.dll
